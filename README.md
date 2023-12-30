@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SecNovel**
 
-- 🌱 I’m currently learning **Webhacking, Reversing engineer**
+- 🌱 I’m currently learning **Web Hacking, Reverse Engineering**
 
 - 📝 I regularly write articles on [https://nekohack.tistory.com/](https://nekohack.tistory.com/)
 
